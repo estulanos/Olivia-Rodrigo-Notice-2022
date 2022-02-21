@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Staatliches&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to right, #661970, #8527d1);
+}
+
+#titulo-noticia{
+    font-family: 'Staatliches', cursive;
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 20px;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#olivia{
+    width: 500px;
+    margin-left: 250px;
+    border-radius: 30px;
+}
+
+#setlist{
+    width: 500px;
+    margin-left: 50px;
+    border-radius: 35px;
+}
+
+#texto-noticia{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer{
+    font-size: 18px;
+    color: aliceblue;
+    text-align: center;
+    width:100%;
+    background: linear-gradient(to right, #54155c, #7a24c0);
+    padding: 20px;
+    font-family: 'Staatliches', cursive;
+
+}
